@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081745324977",
+    "project_id": "point-of-sale-a639b",
+    "storage_bucket": "point-of-sale-a639b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081745324977:android:5238919a29867682ec9b90",
+        "android_client_info": {
+          "package_name": "com.nextinvention.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081745324977-0boh5gju7i08569nn5qbofr805d9d6th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzz8BWQ8Qr7u20DeyuotUz7C99xZVzR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081745324977-0boh5gju7i08569nn5qbofr805d9d6th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
